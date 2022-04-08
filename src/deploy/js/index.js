@@ -1,7 +1,5 @@
+"use strict";
 // Tipos no JS = String, boolean, number
-let x: number = 10;
-
+let x = 10;
 x = 50;
-
-
 console.log(x);
