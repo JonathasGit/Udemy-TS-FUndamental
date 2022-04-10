@@ -27,4 +27,22 @@ console.log(primeiroNome);
 const myNUumbers: number[] = [1,2,3];
 
 console.log(myNUumbers);
+console.log(primeiroNome.toUpperCase);
 console.log(myNUumbers.length);
+
+//Adicionando um número elemento ao array 
+myNUumbers.push(5);
+
+//tuplas - existe com python
+// um molde de como nossa lista tem que ficar 
+let myTuple: [number, string, string[]];
+
+myTuple = [5, "TEste", ["a", "b"]];
+
+// ASsim nao pode ficar 
+//myTuple = [true, false, true ]
+// fim do assim nao pode ficar
+
+
+
+//objct literals 30:37
